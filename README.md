@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YSLBRIAN
-- 👀 I’m interested in Object Oriente Programing
-- 🌱 I’m currently learning data structures and JavaScript
+- 👀 I’m interested in Object Oriented Programming
+- 🌱 I’m currently learning data structures and Algorithms
 - 💞️ I’m looking to collaborate on open source code, Java, Python and JavaScript
 - 📫 How to reach me, Email : xbrianx21@gmail.com
 
