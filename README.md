@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brian Lucero
 - 👀 I’m interested in Object Oriented Programming
 - 🌱 I’m currently learning data structures and Algorithms
-- 💞️ I’m looking to collaborate on open source code, Java, Python and JavaScript
+- 💞️ I’m looking to collaborate on open source code, Jav and Python
 - 📫 How to reach me, email : xbrianx21@gmail.com
 
 <!---
